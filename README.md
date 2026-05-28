@@ -26,6 +26,6 @@ The project includes a live web application where users can upload an image (JPG
 ## ⚙️ How to Run Locally
 
 1. **Clone the repository**:
-   ```bash
-   git clone [https://github.com/YourUsername/Vehicle-Damage-Detection.git](https://github.com/YourUsername/Vehicle-Damage-Detection.git)
+```bash
+   git clone [https://github.com/Ritesh-Pradhan-23/Vehicle-Damage-Detection.git](https://github.com/Ritesh-Pradhan-23/Vehicle-Damage-Detection.git)
    cd Vehicle-Damage-Detection
