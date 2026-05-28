@@ -1,5 +1,5 @@
 # 🚗 Vehicle Damage Detection System
-![Screenshot 2026-05-29 013326](Images/Screenshot 2026-05-29 013326.png)
+
 [cite_start]This project builds a binary image classification model using CNN (VGG16 transfer learning) to automatically detect whether a vehicle is damaged or undamaged[cite: 32]. [cite_start]Manual inspection for insurance claims is time-consuming, so this AI-powered assessment provides a scalable and rapid solution[cite: 31, 32].
 
 ## 📊 Dataset & Model
